@@ -29,6 +29,7 @@ plink
 --out OUT.PLINK_VARIANCE_COMPONENT/GHS145k.hg38.GSA.OMNI.chr1_22.VAR
 --threads 12
 
+
 # merge pruned x-chromosome plink file with pruned autosome plink file
 
 # rerun step 1 with pruned autosome+x-chromosome plink file
